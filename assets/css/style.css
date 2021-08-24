@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); 
+body {
+    font-family: 'Poppins';
+}
+.header{
+	background-image: url('../images/header.svg');
+	/* Full height */
+	  height: 900px;
+
+	  /* Center and scale the image nicely */
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+}
+.nav-text{
+	font-family: Poppins;
+	font-size: 29px!important;
+	font-style: normal!important;
+	font-weight: 400!important;
+	line-height: 24px!important;
+	letter-spacing: 0em!important;
+	text-align: left!important;
+	color: #fff!important;
+
+}
+.login-button{
+	height: 39px;
+	width: 179px;
+	left: 115px;
+	top: 487px;
+	border-radius: 30px;
+	font-size: 20px;
+	font-style: normal;
+	line-height: 20px;
+	letter-spacing: 0em;
+	text-align: center;
+	background-color: inherit;
+
+}
+.headers-heading{
+	font-size: 96px!important;
+	font-style: normal!important;
+	font-weight: 800!important;
+	letter-spacing: 0em!important;
+	text-align: left!important;
+
+}
+.headings{
+	font-family: Poppins;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 60px;
+	letter-spacing: 0em;
+	text-align: left;
+
+}
+.theme-color{
+	color:  #CB4700!important;
+}
+
+.theme-button{
+	height: 39px;
+	width: 179px;
+	left: 115px;
+	top: 487px;
+	border-radius: 30px;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 20px;
+	letter-spacing: 0em;
+	text-align: center;
+
+}
+
+.purple-bg{
+	background-color: #6360FF!important;
+	color: #fff;
+}
+.yellow-bg{
+	background-color: #FFAE00!important;
+	color: #fff;
+}
+.blue-bg{
+	background-color: #006CFF!important;
+	color: #fff;
+}
+.orange-bg{
+	background-color: #FF7E2C!important;
+	color: #fff;
+}
+.lightYellow-bg{
+	background-color: #FFF7E6!important;
+	/*opacity: 0.1;*/
+}
+.orangeYellow-bg{
+	background-color: #FFE4D3!important;
+	/*opacity: 0.21;*/
+}
+.green-bg{
+	background-color: #00CF81;
+	color: #fff;
+}
+.brown-bg{
+	background-color: #CB4700;
+}
+.header-para{
+	font-family: Montserrat;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 16px;
+	letter-spacing: 0em;
+	text-align: left;
+	color: #532C00;
+}
+.help-box{
+	height: 257px;
+	width: 327px;
+	left: 400px;
+	top: 1142px;
+	border-radius: 5px;
+}
+.card-theme{
+	height: 257px;
+	width: 238px;
+	padding: 0px 25px;
+	border-radius: 0px;
+	background-color: #fff;
+	box-shadow: 8px 26px 18px 0px #F3F3F3E8;
+}
+.text{
+	/*font-family: Poppins;*/
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 18px;
+	letter-spacing: 0em;
+	text-align: left;
+}
+.text-purple{
+	color: #D789FC;
+}
+.text-blue{
+	color:  #006CFF;
+}
+.text-yellow{
+	color: #FCBF31;
+}
+
+.button-theme{
+	height: 39px;
+	width: 179px;
+	border-radius: 30px;
+	font-size: 20px;
+	font-style: normal;
+	line-height: 20px;
+	letter-spacing: 0em;
+	text-align: center;
+	background-color: inherit;
+
+}
+.button-theme:hover{
+	background-color: #006CFF;
+	color:  #fff;
+}
+.border-blue{
+	border-color: #006CFF;
+}
+.circle-bg{
+	position: absolute;
+	left: 24.61%;
+	right: 50.25%;
+	top: 36.15%;
+	bottom: 58.04%;
+	opacity: 0.34;
+	border: 1px solid #006CFF;
+
+}
+.small-circle{
+	height: 124px;
+	width: 145px;
+	border-radius: 100px;
+
+}
+.success-stories{
+	background-image: url('../images/blockquote.svg');
+	background-repeat: no-repeat;
+	background-position: top;
+}
+.success-stories-bottom{
+	border-bottom:8px solid #F69391;
+	box-shadow: 1.604px 22.944px 16.124px rgba(188, 214, 250, 0.63);
+}
+.earning-bg{
+	background-image: url('../images/earn.svg');
+	background-repeat: no-repeat;
+}
+.post-img{
+	height: 200px;
+	width: 288px;
+}
+.subscribe-box{
+	/*height: 251px;
+	width: 1039px;*/
+	padding: 3.5rem 0rem;
+	border-radius: 10px;
+	box-shadow: 3.3989999294281006px 10.461999893188477px 11.314000129699707px 0px #0069F96B;
+
+}
+.subscribe-bg{
+	background: linear-gradient(180deg, #FF7222 0%, rgba(255, 255, 255, 0) 100%),
+				linear-gradient(0deg, #FFA600, #FFA600);
+
+}
+.subscribe-input{
+	height: 48px;
+	width: 17rem;
+	border: none;
+	outline: none;
+
+}
+.subscribe-btn{
+	height: 48px;
+	width: 178px;
+	text-align: center;
+	background-color: #fff;
+	border: none;
+	outline: none;
+}
+.footer-bg{
+	background-color: #EF4C48;
+}
